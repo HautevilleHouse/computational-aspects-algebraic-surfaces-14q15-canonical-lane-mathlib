@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ComputationalAspectsAlgebraicSurfaces14q15CanonicalLaneLean
+
+-- Root package file
+
+end ComputationalAspectsAlgebraicSurfaces14q15CanonicalLaneLean
+end HautevilleHouse
